@@ -3,6 +3,9 @@
 ## Overview
 A robust backend for creating, scheduling, and managing marketing campaigns (Email, Push, SMS). This system supports one-time and recurring schedules, audience segmentation, and features a failure-resilient delivery mechanism with automatic retries and performance tracking.
 
+## Demo 
+[Click here to watch the demo](https://drive.google.com/file/d/1i4GdYmBdx-HQ17eRCTQrsoWX7txZBfmx/view?usp=sharing)
+    
 ## Core Features
 - **One-time & Recurring Scheduling**: Schedule campaigns for a specific time or set them to recur daily, weekly, or monthly.
 - **Custom Campaign Messages**: Define the exact content to be sent for each campaign.
